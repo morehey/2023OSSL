@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 hello
+<<<<<<< HEAD
 I am 22 years old.
 
+=======
+my name is Junghwan Choi
+>>>>>>> e32c1cf9f5c8b55136f41430cfcd20e79cfc40e8
 =======
 Hello
 >>>>>>> fb43d2cf1e181373e7c3b4ac0d53b4f2fedfd51a
